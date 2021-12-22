@@ -29,6 +29,11 @@
           "ts": "never"
         }
       ],
+      "no-console": "off",
+      "no-unused-expressions": "off",
+      "max-classes-per-file": "off",
+      "import/prefer-default-export": "off",
+      "class-methods-use-this": "off",
       "prettier/prettier": "error"
     },
     "settings": {
